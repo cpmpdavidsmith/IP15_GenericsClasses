@@ -1,0 +1,15 @@
+/Users/davidsmith/Desktop/Repos/IP15_GenericsClasses/IP15_GenericsClasses/bin/Debug/net7.0/IP15_GenericsClasses
+/Users/davidsmith/Desktop/Repos/IP15_GenericsClasses/IP15_GenericsClasses/bin/Debug/net7.0/IP15_GenericsClasses.deps.json
+/Users/davidsmith/Desktop/Repos/IP15_GenericsClasses/IP15_GenericsClasses/bin/Debug/net7.0/IP15_GenericsClasses.runtimeconfig.json
+/Users/davidsmith/Desktop/Repos/IP15_GenericsClasses/IP15_GenericsClasses/bin/Debug/net7.0/IP15_GenericsClasses.dll
+/Users/davidsmith/Desktop/Repos/IP15_GenericsClasses/IP15_GenericsClasses/bin/Debug/net7.0/IP15_GenericsClasses.pdb
+/Users/davidsmith/Desktop/Repos/IP15_GenericsClasses/IP15_GenericsClasses/obj/Debug/net7.0/IP15_GenericsClasses.csproj.AssemblyReference.cache
+/Users/davidsmith/Desktop/Repos/IP15_GenericsClasses/IP15_GenericsClasses/obj/Debug/net7.0/IP15_GenericsClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsmith/Desktop/Repos/IP15_GenericsClasses/IP15_GenericsClasses/obj/Debug/net7.0/IP15_GenericsClasses.AssemblyInfoInputs.cache
+/Users/davidsmith/Desktop/Repos/IP15_GenericsClasses/IP15_GenericsClasses/obj/Debug/net7.0/IP15_GenericsClasses.AssemblyInfo.cs
+/Users/davidsmith/Desktop/Repos/IP15_GenericsClasses/IP15_GenericsClasses/obj/Debug/net7.0/IP15_GenericsClasses.csproj.CoreCompileInputs.cache
+/Users/davidsmith/Desktop/Repos/IP15_GenericsClasses/IP15_GenericsClasses/obj/Debug/net7.0/IP15_GenericsClasses.dll
+/Users/davidsmith/Desktop/Repos/IP15_GenericsClasses/IP15_GenericsClasses/obj/Debug/net7.0/refint/IP15_GenericsClasses.dll
+/Users/davidsmith/Desktop/Repos/IP15_GenericsClasses/IP15_GenericsClasses/obj/Debug/net7.0/IP15_GenericsClasses.pdb
+/Users/davidsmith/Desktop/Repos/IP15_GenericsClasses/IP15_GenericsClasses/obj/Debug/net7.0/IP15_GenericsClasses.genruntimeconfig.cache
+/Users/davidsmith/Desktop/Repos/IP15_GenericsClasses/IP15_GenericsClasses/obj/Debug/net7.0/ref/IP15_GenericsClasses.dll
